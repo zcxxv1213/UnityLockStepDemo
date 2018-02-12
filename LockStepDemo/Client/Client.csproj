@@ -15,8 +15,8 @@
     <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
     <CompilerResponseFile></CompilerResponseFile>
     <UnityProjectType>Game:1</UnityProjectType>
-    <UnityBuildTarget>Android:13</UnityBuildTarget>
-    <UnityVersion>5.5.4f1</UnityVersion>
+    <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
+    <UnityVersion>2017.1.0f3</UnityVersion>
     <RootNamespace></RootNamespace>
     <LangVersion>4</LangVersion>
   </PropertyGroup>
@@ -27,8 +27,8 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_4;UNITY_5_5;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VIDEO;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
-    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_1_0;UNITY_2017_1;UNITY_2017;PLATFORM_ARCH_64;UNITY_64;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -37,8 +37,8 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_4;UNITY_5_5;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VIDEO;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
-    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_1_0;UNITY_2017_1;UNITY_2017;PLATFORM_ARCH_64;UNITY_64;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
@@ -49,6 +49,9 @@
     <Reference Include="UnityScript.Lang" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine">
       <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
     </Reference>
@@ -58,26 +61,20 @@
     <Reference Include="UnityEngine.Networking">
       <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.PlaymodeTestsRunner">
-      <HintPath>Library\UnityAssemblies\UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>Library\UnityAssemblies\UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>Library\UnityAssemblies\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Timeline">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>Library\UnityAssemblies\UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.HoloLens">
       <HintPath>Library\UnityAssemblies\UnityEngine.HoloLens.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.VR">
-      <HintPath>Library\UnityAssemblies\UnityEngine.VR.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor">
-      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Common">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
     <Reference Include="Debugger">
       <HintPath>Assets\Script\Core\Lua\ToLua\Plugins\Debugger.dll</HintPath>
@@ -174,14 +171,14 @@
     <Compile Include="Assets\Script\Core\ResourceLoad\ResourceManager.cs" />
     <Compile Include="Assets\Script\Core\ResourceLoad\ResourcesConfigManager.cs" />
     <Compile Include="Assets\Script\Core\SDKManager\Interface\ADInterface.cs" />
-    <Compile Include="Assets\Script\Core\SDKManager\Interface\LogInterface.cs" />
     <Compile Include="Assets\Script\Core\SDKManager\Interface\LoginInterface.cs" />
+    <Compile Include="Assets\Script\Core\SDKManager\Interface\LogInterface.cs" />
     <Compile Include="Assets\Script\Core\SDKManager\Interface\OtherSDKInterface.cs" />
     <Compile Include="Assets\Script\Core\SDKManager\Interface\PayInterface.cs" />
     <Compile Include="Assets\Script\Core\SDKManager\Interface\SDKInterfaceBase.cs" />
     <Compile Include="Assets\Script\Core\SDKManager\NullSDKInterfaceClass\NullADSSDKClass.cs" />
-    <Compile Include="Assets\Script\Core\SDKManager\NullSDKInterfaceClass\NullLogSDKClass.cs" />
     <Compile Include="Assets\Script\Core\SDKManager\NullSDKInterfaceClass\NullLoginClass.cs" />
+    <Compile Include="Assets\Script\Core\SDKManager\NullSDKInterfaceClass\NullLogSDKClass.cs" />
     <Compile Include="Assets\Script\Core\SDKManager\NullSDKInterfaceClass\NullOtherSDKClass.cs" />
     <Compile Include="Assets\Script\Core\SDKManager\NullSDKInterfaceClass\NullPaySDKClass.cs" />
     <Compile Include="Assets\Script\Core\SDKManager\NullSDKInterfaceClass\NullSDKInterface.cs" />
@@ -190,9 +187,9 @@
     <Compile Include="Assets\Script\Core\Timer\TimerEvent.cs" />
     <Compile Include="Assets\Script\Core\UI\Components\DragAcceptor\DragAcceptor.cs" />
     <Compile Include="Assets\Script\Core\UI\Components\JoyStick\UGUIJoyStick.cs" />
-    <Compile Include="Assets\Script\Core\UI\Components\JoyStick\UGUIJoyStickBase.cs" />
     <Compile Include="Assets\Script\Core\UI\Components\JoyStick\UGUIJoyStick_BgMove.cs" />
     <Compile Include="Assets\Script\Core\UI\Components\JoyStick\UGUIJoyStick_Ro.cs" />
+    <Compile Include="Assets\Script\Core\UI\Components\JoyStick\UGUIJoyStickBase.cs" />
     <Compile Include="Assets\Script\Core\UI\Components\LanguageComponent\FontChooserComponent.cs" />
     <Compile Include="Assets\Script\Core\UI\Components\LanguageComponent\LanguageComponent.cs" />
     <Compile Include="Assets\Script\Core\UI\Components\LongPressAcceptor\LongPressAcceptor.cs" />
@@ -218,8 +215,8 @@
     <Compile Include="Assets\Script\Core\Utils\EditorTool.cs" />
     <Compile Include="Assets\Script\Core\Utils\ExpandMethod.cs" />
     <Compile Include="Assets\Script\Core\Utils\FileTool.cs" />
-    <Compile Include="Assets\Script\Core\Utils\HTTPTool.cs" />
     <Compile Include="Assets\Script\Core\Utils\HeapObjectPool.cs" />
+    <Compile Include="Assets\Script\Core\Utils\HTTPTool.cs" />
     <Compile Include="Assets\Script\Core\Utils\JsonTool.cs" />
     <Compile Include="Assets\Script\Core\Utils\MD5Tool.cs" />
     <Compile Include="Assets\Script\Core\Utils\MiniJSON.cs" />
@@ -259,16 +256,17 @@
     <Compile Include="Assets\Script\SyncClientLogic\System\ClientOperationSystem.cs" />
     <Compile Include="Assets\Script\SyncClientLogic\System\CreatePerfabSystem.cs" />
     <Compile Include="Assets\Script\SyncClientLogic\System\DestroyEffectSystem.cs" />
+    <Compile Include="Assets\Script\SyncClientLogic\System\healthbarSystem.cs" />
     <Compile Include="Assets\Script\SyncClientLogic\System\InputSystem.cs" />
     <Compile Include="Assets\Script\SyncClientLogic\System\MovePerfabSystem.cs" />
     <Compile Include="Assets\Script\SyncClientLogic\System\PlayerAnimSystem.cs" />
     <Compile Include="Assets\Script\SyncClientLogic\System\ResurgenceUISystem.cs" />
     <Compile Include="Assets\Script\SyncClientLogic\System\SettlementUISystem.cs" />
     <Compile Include="Assets\Script\SyncClientLogic\System\SkillBehaviorSystem.cs" />
-    <Compile Include="Assets\Script\SyncClientLogic\System\healthbarSystem.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\Calc\Calc.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\ClientTime.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\ECS\ComponentBase.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\ECS\ComponentTypeBase.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\ECS\ECSEvent.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\ECS\ECSGroup.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\ECS\ECSGroupManager.cs" />
@@ -284,21 +282,41 @@
     <Compile Include="Assets\Script\SyncFrameWork\ECS\SingletonComponent.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\ECS\SyncComponentBase.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\ECS\SystemBase.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\ECS\Tools\ComponentPool.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\ECS\TupleBase.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\ECS\ViewSystemBase.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\ECS\WorldBase.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\FastCollections\BiDictionary.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\FastCollections\FastDictionary.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\FastCollections\FastList.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\FastCollections\FastQueue.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\FastCollections\FastStack.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\FastCollections\LSEnumerable.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\FastCollections\Shortcuts.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\GameWorldBase.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\InitSystemBase.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\Message\SyncMessage.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\Physics\Body.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\Physics\CustomAttributes.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\Physics\FixedMath.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\Physics\PhyscisExpandMethod.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\Physics\QuadTree.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\Physics\Vector2d.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\Physics\Vector3d.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\Component\AIComponentBase.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\Component\ConnectStatusComponent.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\Component\GameDataCacheComponent.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\Component\PlayerCommandBase.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\Component\PlayerCommandRecordComponent.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\Component\RealPlayerComponent.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\Component\SelfComponent.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\Component\ServerCacheComponent.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\Component\SyncComponent.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\Component\TheirComponent.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\System\CommandSyncSystem.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\System\EntityRecordSystem.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\System\OptimisticLockStep\OptimisticCommandSystem.cs" />
+    <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\System\OptimisticLockStep\OptimsticSyncSystem.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\System\ReconnectSystem.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\System\SyncDebugSystem.cs" />
     <Compile Include="Assets\Script\SyncFrameWork\SyncLogic\System\SyncSystem.cs" />
@@ -307,8 +325,8 @@
     <Compile Include="Assets\Script\SyncGameLogic\Component\BlockComponent.cs" />
     <Compile Include="Assets\Script\SyncGameLogic\Component\BlowFlyComponent.cs" />
     <Compile Include="Assets\Script\SyncGameLogic\Component\BuffComponent.cs" />
-    <Compile Include="Assets\Script\SyncGameLogic\Component\CDComponent.cs" />
     <Compile Include="Assets\Script\SyncGameLogic\Component\CampComponent.cs" />
+    <Compile Include="Assets\Script\SyncGameLogic\Component\CDComponent.cs" />
     <Compile Include="Assets\Script\SyncGameLogic\Component\CollisionComponent.cs" />
     <Compile Include="Assets\Script\SyncGameLogic\Component\CommandComponent.cs" />
     <Compile Include="Assets\Script\SyncGameLogic\Component\FlyObjectComponent.cs" />
